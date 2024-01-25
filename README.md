@@ -1,4 +1,4 @@
-#EvenyVibe
+#EventVibe
 
 Introducing EventVibe, a collaborative web project undertaken by a team of four developers. Leveraging a technology stack that includes HTML, CSS, JavaScript, Bootstrap for the front end, and PHP for the back end, complemented by MySQL for robust database management, this initiative marks a significant step towards revolutionising event planning.
 
